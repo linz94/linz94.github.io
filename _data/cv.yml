@@ -38,7 +38,7 @@
       description:
         - Supervised by Dr.Valery Vishnevskiy, Dr. Andras Jakab and Prof. Orcun Goksel
         - Implicit modeling with uncertainty estimation for intravoxel incoherent motion imaging
-        - Keywords for concept: uncertainty estimation, mixture density networks
+        - "Keywords for concept: uncertainty estimation, mixture density networks"
 
     - title: Semester Project
       institution: ETH Zurich, Switzerland
@@ -46,7 +46,7 @@
       description:
         - Supervised by Dr. Neerav Karani, Dr. Christine Tanner and Prof. Ender Konukoglu
         - Temporal interpolation via motion prediction for dynamic magnetic resonance imaging
-        - Keywords for concept: motion estimation, frame interpolation, spatial transformer
+        - "Keywords for concept: motion estimation, frame interpolation, spatial transformer"
 
     - title: Bachelor Thesis
       institution: Technical University Munich, Germany
@@ -54,7 +54,7 @@
       description:
         - Supervised by Dr. Manuel Stein and Prof. Josef Nossek
         - Asymptotic performance analysis for 1-bit Bayesian smoothing
-        - Keywords for concept: Bayesian smoothing, state-space estimation
+        - "Keywords for concept: Bayesian smoothing, state-space estimation"
 
     - title: Internship
       institution: Cellasys GmBH, Munich, Germany
